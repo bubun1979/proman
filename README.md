@@ -3,6 +3,10 @@
 
 This process manager will do the following:
 
+### Please Note
+To run the cli.js file as executable in *nix system, type the following command:
+**<code>sudo chmod +x cli.js</code>**
+
 ### Run a express based node server
 Basic format: **<code>node cli.js  serve -f <server-file-name.ext></code>**
 **Example:** <code>node cli.js serve -f server.js</code>
