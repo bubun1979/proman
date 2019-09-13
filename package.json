@@ -1,0 +1,24 @@
+{
+  "name": "proman",
+  "version": "1.0.0",
+  "description": "Simple Process Manager for Node.js projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "bin": {
+    "proman": "./cli.js"
+  },
+  "keywords": [],
+  "author": "Soumyajit Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "nodemon": "^1.19.2",
+    "ps-tree": "^1.2.0",
+    "yargs": "^14.0.0"
+  }
+}
