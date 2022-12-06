@@ -13,7 +13,7 @@
   "author": "Soumyajit Ghosh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "chalk": "^2.4.2",
